@@ -2,8 +2,8 @@
 
 const char* sites[] = {
 	"https://github.com/GlebYoutuber",
-	"", 
-	"", 
+	"https://www.youtube.com/channel/UCI_5uzhga4tLvEzYAagAgXA", 
+	"https://www.youtube.com/watch?v=lwqQQSS1vtk", 
 	"regedit"
 };
 
