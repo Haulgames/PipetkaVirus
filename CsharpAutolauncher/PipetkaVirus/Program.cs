@@ -88,14 +88,6 @@ namespace PipetkaVirusAutolauncher
         }
         public delegate bool EnumWindowsProc(IntPtr hWnd, IntPtr lParam);
     }
-
-
-
-
-
-
-
-
 }
 
 
