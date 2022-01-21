@@ -21,13 +21,7 @@ DWORD FindProcessId(const std::wstring& processName) {
 	}
 }
 
-string en[] = { "C:\\windows\\System32\\drivers\\acpi.sys",
- "C:\\Windows\\System32\\drivers\\pci.sys",
- "C:\\Windows\\System32\\drivers\\cdrom.sys",
- "C:\\Windows\\System32\\drivers\\volmgr.sys",
- "C:\\Windows\\System32\\drivers\\vdrvroot.sys",
- "C:\\Windows\\System32\\drivers\\spaceport.sys",
- "C:\\Windows\\System32\\drivers\\disk.sys",
+
 };
 void RunAsSystem() {
 	SHELLEXECUTEINFO info;
